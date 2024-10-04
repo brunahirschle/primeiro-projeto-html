@@ -55,3 +55,27 @@ div, span {
     border: solid;
     padding: 20px;
 }
+
+p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 100%;
+    font-style: normal; /* não italico */
+    font-weight: 100;  /* não negrito */
+}
+
+mark {
+    color: red;
+    text-transform: uppercase;
+}
+
+a {
+    /* text-decoration: line-through red double 1px; */
+}
+
+p {
+    text-align: justify;
+    line-height: 1.5;
+    letter-spacing: 1;
+    word-spacing: 3;
+    /* font: italic small-caps bold 16px/1.6 sans-serif; */
+}
